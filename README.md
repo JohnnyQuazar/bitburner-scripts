@@ -1,2 +1,2 @@
 # bitburner-scripts
-My bitburner projects
+My bitburner projects go here
