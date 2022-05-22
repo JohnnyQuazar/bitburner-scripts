@@ -13,10 +13,10 @@
  *   ===> Absolutely rocks when using VSCode, hands free upload/kill/run
  * 
  * Assumption: the script to debugged runs forever and clears the log with each loop:
- * 	  while (true) {
- *		ns.clearLog();
+ *   while (true) {
+ *      ns.clearLog();
  *      ns.print("master plan for world domination);
- *    }
+ *   }
  *********************************************************************************************************** 
  */
 export async function main(ns) {
